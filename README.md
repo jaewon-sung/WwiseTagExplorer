@@ -18,7 +18,7 @@ Tag-based Wwise resource navigator. Connects to an active Wwise project via WAAP
 
 ## Installation
 
-Download `WwiseTagExplorer.zip` from the [latest release](https://github.com/jaewon-sung/WwiseTagExplorer/releases/latest), extract it anywhere. No Python installation required.
+Download `WwiseTagExplorer.zip` from the [latest release](https://github.com/jaewon-sung/WwiseTagExplorer/releases/latest), extract it anywhere. Run `WwiseTagExplorer.exe` directly, or add it to the Wwise Extensions menu (see below). No Python installation required.
 
 ---
 
@@ -128,7 +128,7 @@ Output: `dist/WwiseTagExplorer.exe`
 
 ## 설치
 
-[최신 릴리즈](https://github.com/jaewon-sung/WwiseTagExplorer/releases/latest)에서 `WwiseTagExplorer.zip`을 다운로드하여 원하는 위치에 압축 해제하면 됩니다. Python 설치 불필요.
+[최신 릴리즈](https://github.com/jaewon-sung/WwiseTagExplorer/releases/latest)에서 `WwiseTagExplorer.zip`을 다운로드하여 원하는 위치에 압축 해제하면 됩니다. `WwiseTagExplorer.exe`를 직접 실행하거나, 아래 방법으로 Wwise Extensions 메뉴에 등록해서 사용할 수 있습니다. Python 설치 불필요.
 
 ---
 
