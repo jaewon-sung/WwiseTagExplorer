@@ -1,0 +1,16 @@
+# PyInstaller build artifacts
+build/
+dist/
+*.spec
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# User data
+favorites.json
+
+# IDE
+.vscode/
+.idea/
